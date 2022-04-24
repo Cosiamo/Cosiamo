@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/Cosiamo/Cosiamo/blob/main/party-gopher.gif" width="150"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/joshua-becnel/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,10 +17,7 @@
 <h1 align="center">
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Joshua a.k.a "Cosiamo"
+  I'm Joshua a.k.a. "Cosiamo"
 </h1>
-<div align="center">
-  <h1>
-    I'm Joshua a.k.a "Cosiamo"
-  </h1>
-</div>
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"/> Languages, Frameworks, and Tools
