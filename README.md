@@ -20,4 +20,4 @@
   I'm Joshua a.k.a. "Cosiamo"
 </h1>
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"/> Languages, Frameworks, and Tools
+### <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="30px"/> Languages, Frameworks, and Tools
